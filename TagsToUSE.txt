@@ -1,0 +1,30 @@
+%Gör en inline kommentar
+%   \attskriva{Lite exempel att introducera med}
+
+%Marginal Kommentar
+%   \kommentar{Det är väldigt lätt att sätta marginalkommentarer}lista
+
+%Följande 3 contributors finns:
+%   \nyforfattare{Författarens namn}
+%   \nyhandledare{Cool Handlerade}
+%   \nykonsult{Cool Konsult}
+
+% Anmärkning med italic text som första ord
+% \begin{anmarkning}
+% En ganska interesant anmärkning kan lätt göras!
+% Det är bara att skriva
+% \end{anmarkning}
+
+%Snabba footnotes.
+\footnote{Fotnoter är enkla också}
+
+% Snabba bilder
+    \begin{figure}
+        \centering \includegraphics[width=.9\textwidth]{img/logos.PNG}
+        \caption{En hel del loggor va.. Det är enkelt att lägga in snygga figurer}
+        \label{fig:my_label}
+    \end{figure}
+
+
+%--------------------- Översatta grejer
+%\undersektion{Snyggg sektionstitel}
